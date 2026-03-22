@@ -46,6 +46,7 @@
 
 * 🤖 **[Playwright-GenAI-Auto](https://github.com/theravijadav/Playwright-GenAI-Auto)**: A framework mapping generative AI capabilities onto Playwright for dynamic, self-healing Element selectors.
 * 🏢 **[Playwright-Salesforce-Enterprise](https://github.com/theravijadav/Playwright-Salesforce-Enterprise)**: A full-fledged enterprise test automation boilerplate for Salesforce, featuring dynamic data generation, custom fixtures, encrypted credentials, and self-healing.
+* 🛡️ **[API-Contract-Sentinel](https://github.com/theravijadav/API-Contract-Sentinel)**: A Continuous Monitoring CLI tool testing live backend responses strictly against OpenAPI specs utilizing ultra-fast Ajv validation alongside dual Axios and Playwright HTTP engines.
 
 ---
 
