@@ -45,7 +45,6 @@
 ### 🌍 Featured Open Source Projects
 
 * 🤖 **[Playwright-GenAI-Auto](https://github.com/theravijadav/Playwright-GenAI-Auto)**: A framework mapping generative AI capabilities onto Playwright for dynamic, self-healing Element selectors.
-* ⚡ **Cypress-Load-Tester**: A custom Cypress plugin bridging functional End-to-End checks directly into heavy-traffic load generation runs.
 
 ---
 
