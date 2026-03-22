@@ -18,7 +18,7 @@
 - 🔭 I’m currently building an **AI-Powered Test Automation** framework (`Playwright-GenAI-Auto`).
 - 🌱 I specialize in creating **resilient, self-healing test pipelines** utilizing large language models (OpenAI, Gemini).
 - ⚙️ I advocate for shifting quality to the left with robust API contract testing and continuous performance monitoring.
-- 💬 Ask me about: **Playwright, Cypress, PyTest, GenAI integrations, and CI/CD best practices**.
+- 💬 Ask me about: **Playwright, Cypress, GenAI integrations, and CI/CD best practices**.
 
 ---
 
@@ -28,12 +28,10 @@
   <h4>Languages</h4>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
 
   <h4>Testing Frameworks & Tools</h4>
   <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright" />
   <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" alt="Cypress" />
-  <img src="https://img.shields.io/badge/PyTest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" alt="PyTest" />
   <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest" />
 
   <h4>Infrastructure & CI/CD</h4>
@@ -48,7 +46,6 @@
 
 * 🤖 **[Playwright-GenAI-Auto](https://github.com/theravijadav/Playwright-GenAI-Auto)**: A framework mapping generative AI capabilities onto Playwright for dynamic, self-healing Element selectors.
 * ⚡ **Cypress-Load-Tester**: A custom Cypress plugin bridging functional End-to-End checks directly into heavy-traffic load generation runs.
-* 🛡️ **API-Contract-Sentinel**: A Continuous Monitoring CLI testing live backend responses strictly against documented OpenAPI specs.
 
 ---
 
