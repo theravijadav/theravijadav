@@ -53,8 +53,7 @@
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=theravijadav&show_icons=true&theme=radium&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=theravijadav&theme=radium&hide_border=true&background=0D1117" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=theravijadav&theme=radium&hide_border=true&background=0D1117" alt="GitHub Streak" />
 </div>
 
 ---
