@@ -6,9 +6,9 @@
   <i>Building robust, self-healing test automation frameworks that push the boundaries of quality assurance.</i>
 
   <p align="center">
-    <a href="https://github.com/theravijadav"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-    <a href="https://theravijadav.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=Safari&logoColor=white" alt="Portfolio" /></a>
-    <a href="https://linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="https://github.com/ravijadav-dev"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+    <a href="https://ravijadav.dev/"><img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=Safari&logoColor=white" alt="Portfolio" /></a>
+    <a href="https://linkedin.com/ravijadav"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   </p>
 </div>
 
